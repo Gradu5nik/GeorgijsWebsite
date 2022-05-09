@@ -1,0 +1,8 @@
+//redifining bootstrap variables as in https://www.youtube.com/watch?v=nCX3QVl_PiI
+$primary: #4D4C7D;//#8E3200;
+$secondary: #827397;//#A64B2A;
+$font-size-base: 1rem;
+$h1-font-size:$font-size-base * 6;
+
+// import bootstrap 
+@import "../node_modules/bootstrap/scss/bootstrap"
